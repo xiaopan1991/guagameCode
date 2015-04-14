@@ -1,4 +1,4 @@
---登录场景
+--登录场景 登陆界面
 local LoginScene = class("LoginScene", function ()
 	return display.newScene("LoginScene")
 end)
